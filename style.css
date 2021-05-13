@@ -43,13 +43,13 @@
 .content h3{
   margin-left: 42px;
   color: #0f5ab7;
-  font-size: 40px;
+  font-size: 26px;
   padding: 22px 0px;
 }
 .content h5 {
   padding: 0px 0px;
   margin-left: 46px;
-  display: inline-block;
+  display: contents;
 }
 /* button  */
 .sidebar a {  
